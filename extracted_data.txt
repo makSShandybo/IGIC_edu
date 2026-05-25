@@ -1,0 +1,7 @@
+# Результаты парсинга
+DATA: Meeting at 5PM
+DATA: Temperature=25C
+DATA: Pressure=1013hPa
+DATA: Priority=High
+DATA: Result=SUCCESS
+DATA: Code=200

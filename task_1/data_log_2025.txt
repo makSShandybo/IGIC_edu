@@ -1,0 +1,6 @@
+LOG START
+INFO: System initialized
+DATA: Temperature=25C
+INFO: Checking sensors
+DATA: Pressure=1013hPa
+END LOG
